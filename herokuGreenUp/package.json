@@ -1,0 +1,26 @@
+{
+  "name": "herokugreenup",
+  "version": "1.0.0",
+  "description": "greenup app tp be hosted via heroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jkstyles/greenupVermont.git"
+  },
+  "keywords": [
+    "heroku"
+  ],
+  "author": "Jake",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jkstyles/greenupVermont/issues"
+  },
+  "homepage": "https://github.com/Jkstyles/greenupVermont#readme",
+  "dependencies": {
+    "firebase-app": "0.0.1",
+    "firebase-auth": "^0.1.2"
+  }
+}
